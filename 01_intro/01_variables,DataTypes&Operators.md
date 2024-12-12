@@ -30,7 +30,10 @@
 
 <!-- ============================================== -->
 
-### InterviewPrep
-- diff b/w var, let const
-
+## InterviewPrep
+### diff b/w var, let const
+### ways to print a statement
+- `console.log('Hello World..!')`, used to debug to the code.
+- `alert('Hello World..!')`, displays the alert box over the current window with the specified message.
+- `document.write('Hello World..!')`, used to print the content to the HTML document.
 
